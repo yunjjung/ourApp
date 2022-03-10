@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="Challenge">Challenge</string>
+    <string name="welcomeText">Set your Goal! and Make it happen</string>
+    <string name="my_notes">Together, Better</string>
+    <string name="note_title">글 제목</string>
+    <string name="type_in_here">당신의 루틴을 입력하세요 ...</string>
+    <string name="note_subtitle">소제목</string>
+
+</resources>
