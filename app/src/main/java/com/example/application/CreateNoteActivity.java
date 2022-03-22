@@ -11,7 +11,7 @@ import android.widget.EditText;
 import android.widget.ImageView;
 
 public class CreateNoteActivity extends AppCompatActivity {
-
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
