@@ -30,11 +30,12 @@ import com.example.application.R;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener
 {
-    //경민 변수
+    
     Button add;
     AlertDialog dialog;
     LinearLayout layout;
 
+    int main =0;
 
 
     //민경 변수
