@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     int main =0;
 
-
+//윤정 추가
     //민경 변수
     CheckBox CheckBox_check1, CheckBox_check2, CheckBox_check3;
 
